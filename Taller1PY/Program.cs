@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Taller1PY.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<Taller1PYContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Taller1PYContext") ?? throw new InvalidOperationException("Connection string 'Taller1PYContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
