@@ -1,0 +1,49 @@
+/* _content/Taller1PY/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-089z01xoxv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-089z01xoxv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-089z01xoxv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-089z01xoxv], .nav-pills .show > .nav-link[b-089z01xoxv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-089z01xoxv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-089z01xoxv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-089z01xoxv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-089z01xoxv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-089z01xoxv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

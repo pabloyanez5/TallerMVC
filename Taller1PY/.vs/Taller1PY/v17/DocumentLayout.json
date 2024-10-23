@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\py\\Taller1PY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\controllers\\jugadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\controllers\\jugadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\controllers\\estadioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\controllers\\estadioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\data\\taller1pycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\data\\taller1pycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\views\\jugadors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\views\\jugadors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\views\\jugadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\views\\jugadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|d:\\py\\taller1py\\taller1py\\models\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10380749-965F-4C06-B247-6A4EC6FB2A6A}|Taller1PY\\Taller1PY.csproj|solutionrelative:taller1py\\models\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Views\\Jugadors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Taller1PY\\Views\\Jugadors\\Details.cshtml",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Views\\Jugadors\\Details.cshtml",
+              "RelativeToolTip": "Taller1PY\\Views\\Jugadors\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:53:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Views\\Jugadors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Taller1PY\\Views\\Jugadors\\Index.cshtml",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Views\\Jugadors\\Index.cshtml",
+              "RelativeToolTip": "Taller1PY\\Views\\Jugadors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:48:18.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taller1PYContext.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Data\\Taller1PYContext.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Data\\Taller1PYContext.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Data\\Taller1PYContext.cs",
+              "RelativeToolTip": "Taller1PY\\Data\\Taller1PYContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:39:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadiosController.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Controllers\\EstadiosController.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Controllers\\EstadiosController.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Controllers\\EstadiosController.cs",
+              "RelativeToolTip": "Taller1PY\\Controllers\\EstadiosController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv5gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:38:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquipoesController.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Controllers\\EquipoesController.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Controllers\\EquipoesController.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Controllers\\EquipoesController.cs",
+              "RelativeToolTip": "Taller1PY\\Controllers\\EquipoesController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv5gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:37:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JugadorsController.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Controllers\\JugadorsController.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Controllers\\JugadorsController.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Controllers\\JugadorsController.cs",
+              "RelativeToolTip": "Taller1PY\\Controllers\\JugadorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:35:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estadio.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Models\\Estadio.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Models\\Estadio.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Models\\Estadio.cs",
+              "RelativeToolTip": "Taller1PY\\Models\\Estadio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:27:09.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Models\\Equipo.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Models\\Equipo.cs",
+              "RelativeToolTip": "Taller1PY\\Models\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:26:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "D:\\py\\Taller1PY\\Taller1PY\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "Taller1PY\\Models\\Jugador.cs",
+              "ToolTip": "D:\\py\\Taller1PY\\Taller1PY\\Models\\Jugador.cs",
+              "RelativeToolTip": "Taller1PY\\Models\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:25:58.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
