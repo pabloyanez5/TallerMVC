@@ -12,7 +12,7 @@ namespace Taller1PY.Models
         public string Posicion { get; set; }
         [Range(14,40)]
         public int Edad { get; set; }
-        public Equipo Equipo { get; set; }
+        public Equipo? Equipo { get; set; }
         [ForeignKey("Equipo")]
         public int IdEquipo { get; set; }
     }

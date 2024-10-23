@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj": {}
+    "D:\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj": {}
   },
   "projects": {
-    "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj": {
+    "D:\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
+        "projectUniqueName": "D:\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
         "projectName": "Taller1PY",
-        "projectPath": "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
+        "projectPath": "D:\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
         "packagesPath": "C:\\Users\\cisco\\.nuget\\packages\\",
-        "outputPath": "D:\\py\\Taller1PY\\Taller1PY\\obj\\",
+        "outputPath": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryJ3ifijvA8=",
+  "dgSpecHash": "b4JGrs+E974=",
   "success": true,
-  "projectFilePath": "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
+  "projectFilePath": "D:\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cisco\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cisco\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

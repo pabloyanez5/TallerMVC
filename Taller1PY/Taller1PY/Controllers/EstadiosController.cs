@@ -51,7 +51,7 @@ namespace Taller1PY.Controllers
         // POST: Estadios/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,Ciudad,Capacidad")] Estadio estadio)
+        public async Task<IActionResult> Create([Bind("Id,Nombre,Direccion,Ciudad,Capacidad")] Estadio estadio)
         {
             if (ModelState.IsValid)
             {
