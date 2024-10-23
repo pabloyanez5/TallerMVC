@@ -1,47 +1,80 @@
 ﻿@model IEnumerable<Taller1PY.Models.Estadio>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Lista de Estadios";
 }
+<style>
+    body {
+        background-image: url('/images/fondo.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
 
-<h1>Index</h1>
+    .table {
+        background-color: rgba(255, 255, 255, 0.8);
+    }
 
-<p>
-    <a asp-action="Create">Create New</a>
+    body, .container {
+        padding: 20px;
+    }
+</style>
+
+<!-- Título -->
+<h1 class="text-center mb-4 text-light">Lista de Estadios</h1>
+
+<!-- Botón para crear un nuevo estadio -->
+<p class="text-end">
+    <a class="btn btn-success" asp-action="Create">Crear nuevo estadio</a>
 </p>
-<table class="table">
-    <thead>
+
+<!-- Tabla de estadios -->
+<table class="table table-striped table-hover bg-light">
+    <thead class="table-dark">
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Direccion)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Ciudad)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Capacidad)
-            </th>
-            <th></th>
+            <th>@Html.DisplayNameFor(model => model.Direccion)</th>
+            <th>@Html.DisplayNameFor(model => model.Ciudad)</th>
+            <th>@Html.DisplayNameFor(model => model.Capacidad)</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Direccion)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Ciudad)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Capacidad)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ciudad)</td>
+                <td>@Html.DisplayFor(modelItem => item.Capacidad)</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">Detalles</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+<!-- Carrusel de imágenes -->
+<div id="estadioCarousel" class="carousel slide mb-4" data-bs-ride="carousel" style="max-width: 600px; margin: 0 auto;">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/images/e1.png" class="d-block w-100" alt="Estadio 1" style="height: 300px; object-fit: cover;">
+        </div>
+        <div class="carousel-item">
+            <img src="~/images/es2.png" class="d-block w-100" alt="Estadio 2" style="height: 300px; object-fit: cover;">
+        </div>
+        <div class="carousel-item">
+            <img src="~/images/es3.png" class="d-block w-100" alt="Estadio 3" style="height: 300px; object-fit: cover;">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#estadioCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#estadioCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Siguiente</span>
+    </button>
+</div>

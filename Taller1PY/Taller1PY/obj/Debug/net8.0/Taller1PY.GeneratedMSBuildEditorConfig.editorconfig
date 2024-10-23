@@ -17,99 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Taller1PY
 build_property.RootNamespace = Taller1PY
-build_property.ProjectDir = D:\PY\Taller1PY\Taller1PY\
+build_property.ProjectDir = D:\QUINTO SEMESTRE UDLA\Progra IV\PY\Taller1PY\Taller1PY\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PY\Taller1PY\Taller1PY
+build_property.MSBuildProjectDirectory = D:\QUINTO SEMESTRE UDLA\Progra IV\PY\Taller1PY\Taller1PY
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Equipoes/Create.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Equipoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Equipoes/Delete.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Equipoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Equipoes/Details.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Equipoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Equipoes/Edit.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Equipoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Equipoes/Index.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Equipoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Estadios/Create.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Estadios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Estadios/Delete.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Estadios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Estadios/Details.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Estadios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Estadios/Edit.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Estadios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Estadios/Index.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Estadios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Home/Index.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Home/Privacy.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Jugadors/Create.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Jugadors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Jugadors/Delete.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Jugadors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Jugadors/Details.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Jugadors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Jugadors/Edit.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Jugadors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Jugadors/Index.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Jugadors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Shared/Error.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/_ViewImports.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/_ViewStart.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PY/Taller1PY/Taller1PY/Views/Shared/_Layout.cshtml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/PY/Taller1PY/Taller1PY/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-089z01xoxv

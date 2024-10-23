@@ -1,247 +1,303 @@
 {
   "Files": [
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Taller1PY.bundle.scp.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Taller1PY.bundle.scp.css",
       "PackagePath": "staticwebassets\\Taller1PY.bundle.scp.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\css\\site.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\favicon.ico",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\js\\site.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\Ligapro.png",
+      "PackagePath": "staticwebassets\\images\\Ligapro.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\a.png",
+      "PackagePath": "staticwebassets\\images\\a.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\b.png",
+      "PackagePath": "staticwebassets\\images\\b.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\c.png",
+      "PackagePath": "staticwebassets\\images\\c.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\e1.png",
+      "PackagePath": "staticwebassets\\images\\e1.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\es2.png",
+      "PackagePath": "staticwebassets\\images\\es2.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\es3.png",
+      "PackagePath": "staticwebassets\\images\\es3.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\fondo.jpg",
+      "PackagePath": "staticwebassets\\images\\fondo.jpg"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\fondo2.png",
+      "PackagePath": "staticwebassets\\images\\fondo2.png"
+    },
+    {
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

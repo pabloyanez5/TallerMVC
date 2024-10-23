@@ -23,7 +23,7 @@ namespace Taller1PY.Controllers
         public async Task<IActionResult> Index(int? equipoId)
         {
             // Obtiene todos los equipos para el dropdown de filtro
-            ViewData["Equipos"] = new SelectList(_context.Equipo, "Id", "Nombre");
+            ViewData["Equipos"] = new SelectList(await _context.Equipo.ToListAsync(), "Id", "Nombre");
 
             // Incluye la relación con Equipo y convierte a IQueryable para que funcione con el filtro
             var jugadores = _context.Jugador.Include(j => j.Equipo).AsQueryable();

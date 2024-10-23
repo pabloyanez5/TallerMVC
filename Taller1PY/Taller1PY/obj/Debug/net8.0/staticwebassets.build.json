@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yGqVE8xHw95J0VhYclHvwUXwyOW3/bmjiTgvNjJo0VE=",
+  "Hash": "YR9FeN9yxV9CZey9sFA/Tfp/rIaDA7pzEuVPVBYHXvs=",
   "Source": "Taller1PY",
   "BasePath": "_content/Taller1PY",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Taller1PY\\wwwroot",
       "Source": "Taller1PY",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Taller1PY.styles.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Taller1PY.styles.css",
       "SourceId": "Taller1PY",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "Taller1PY.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Taller1PY.styles.css"
+      "OriginalItemSpec": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Taller1PY.styles.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Taller1PY.bundle.scp.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Taller1PY.bundle.scp.css",
       "SourceId": "Taller1PY",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "Taller1PY.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Taller1PY.bundle.scp.css"
+      "OriginalItemSpec": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Taller1PY.bundle.scp.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\css\\site.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\css\\site.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\favicon.ico",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\favicon.ico",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,276 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\js\\site.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\1.png",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\2.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\3.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\4.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\5.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\a.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\b.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/b.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\c.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\e1.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/e1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e1.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\es2.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/es2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\es2.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\es3.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/es3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\es3.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\fondo.jpg",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/fondo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fondo.jpg"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\fondo2.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/fondo2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fondo2.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\images\\Ligapro.png",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "BasePath": "_content/Taller1PY",
+      "RelativePath": "images/Ligapro.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ligapro.png"
+    },
+    {
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\js\\site.js",
+      "SourceId": "Taller1PY",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -131,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -150,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -169,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -188,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -207,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -283,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -302,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -321,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -359,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -435,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -454,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -473,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -492,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -511,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -587,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -606,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -625,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -644,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -986,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1005,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1024,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1043,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1062,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1081,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1100,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1119,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1138,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1157,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1176,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Taller1PY",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
+      "ContentRoot": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\wwwroot\\",
       "BasePath": "_content/Taller1PY",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

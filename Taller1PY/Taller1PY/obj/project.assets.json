@@ -7714,23 +7714,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cisco\\.nuget\\packages\\": {},
+    "C:\\Users\\pablo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
+      "projectUniqueName": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
       "projectName": "Taller1PY",
-      "projectPath": "D:\\py\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
-      "packagesPath": "C:\\Users\\cisco\\.nuget\\packages\\",
-      "outputPath": "D:\\py\\Taller1PY\\Taller1PY\\obj\\",
+      "projectPath": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\Taller1PY.csproj",
+      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+      "outputPath": "D:\\QUINTO SEMESTRE UDLA\\Progra IV\\PY\\Taller1PY\\Taller1PY\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7797,7 +7797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
